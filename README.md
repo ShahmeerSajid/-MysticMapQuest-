@@ -27,5 +27,5 @@ After navigating the perilous map, it’s time to see what you’ve collected. c
 - Challenge Yourself: Collect all the treasures without getting hopelessly lost.
 - Retro Fun: Enjoy the simplicity of ASCII art and the thrill of exploration.
 
-So grab your imaginary cutlass, don your best pirate accent, and dive into MysticMapQuest! It’s time to find out if you’re a true treasure hunter… or just another map-addicted adventurer.
+So grab your imaginary cutlass, don your best pirate accent, and dive into MysticMapQuest! It’s time to find out if you’re a true treasure hunter… or just another map-addicted adventurer :)
 
