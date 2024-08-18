@@ -1,10 +1,4 @@
 
-# Name : Shahmeer Sajid
-# Student ID = 261073334
-
-# Question 2 : Treasure! (85 points)
-
-
 from treasure_utils import *
 
 import random
@@ -352,11 +346,11 @@ def follow_trail(map_string, start_col_index, start_row_index, start_depth_index
     return map_string
                 
 
-#print(follow_trail('>>>v^..v^<<<', 2, 3, 0, 4, 3, 1, -1)) *****************************
+#print(follow_trail('>>>v^..v^<<<', 2, 3, 0, 4, 3, 1, -1)) 
 
-#print(follow_trail('>>+v>v+.^*<v.<<vv^^|>^v+<vv..^>>^^', 2, 3, 2, 4, 3, 3, 100)) *************************************
+#print(follow_trail('>>+v>v+.^*<v.<<vv^^|>^v+<vv..^>>^^', 2, 3, 2, 4, 3, 3, 100)) 
 # print_3D_treasure_map('>>+v>v+.^*<v.<<vv^^|>^v+<vv..^>>^^',4,3,3)
-# #print(follow_trail('>>!v >v!. ^*<v     .<<v v^^| >^v!    <vv. .v>> ^^', 0, 1, 0, 4, 3, 3, 100))# **************CHECK THIS ******************
+# #print(follow_trail('>>!v >v!. ^*<v     .<<v v^^| >^v!    <vv. .v>> ^^', 0, 1, 0, 4, 3, 3, 100))
 
 # print(len('>>!v>v!.^*<v.<<vv^^|>^v!<vv..v>>^^'))
 # print(len('>X!XXX!.XXXXX.XXXv^XXXXXX!XvX..vXXX^'))
